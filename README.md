@@ -1,6 +1,7 @@
 # Research paper notes
 ## Topics
-* Road Labeling
+* Labeling
+* Data Visualization
 ## Template
 Following the [IMRAD](https://en.wikipedia.org/wiki/IMRAD) format, the notes include Introduction, Methods, Results, and Discussion.
 
